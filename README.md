@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://julianbass-responsivewebdev-404notfound.netlify.app" target="_blank">
       Demo
     </a>
     <span> | </span>
